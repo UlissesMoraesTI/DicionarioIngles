@@ -13,6 +13,80 @@ Aprender Inglês.
 ## A
 A
 
+## B
+B
+
+## C
+C
+
+## D
+D
+
+## E
+E
+
+## F
+F
+
+## G
+G
+
+## H
+H
+
+## I
+I
+
+## J
+J
+
+## K
+K
+
+## L
+L
+
+## M
+M
+
+## N
+N
+
+## O
+O
+
+## P
+P
+
+## Q
+Q
+
+## R
+R
+
+## S
+S
+
+## T
+T
+
+## U
+U
+
+## V
+V
+
+## X
+X
+
+## Y
+Y
+
+## W
+W
+
+## Z
+Z
 
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
